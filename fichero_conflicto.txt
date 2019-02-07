@@ -1,1 +1,1 @@
-Esto está escrito desde rama1
+Esto está escrito en máster.
