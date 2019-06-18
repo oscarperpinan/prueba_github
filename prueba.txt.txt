@@ -1,3 +1,4 @@
 Cambio ejecutado el 18/06.
 Cambio realizado desde la web.
 Cambio en rama2
+Cambio en rama2 para crear conflicto.
