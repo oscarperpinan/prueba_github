@@ -1,4 +1,4 @@
 Cambio ejecutado el 18/06.
 Cambio realizado desde la web.
 Cambio en rama2
-Cambio en master para generar conflicto
+Cambio en master para generar conflicto, pero resuelvo conflicto.
