@@ -2,3 +2,5 @@ Cambio ejecutado el 18/06.
 Cambio realizado desde la web.
 Cambio en rama2
 Cambio en master para generar conflicto, pero resuelvo conflicto.
+
+https://classroom.github.com/g/6OTi0Ttq
