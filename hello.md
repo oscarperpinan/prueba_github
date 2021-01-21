@@ -1,3 +1,3 @@
-Hola
+Hello
 ==
-Fichero via upload
+File via upload
